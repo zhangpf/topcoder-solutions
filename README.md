@@ -15,11 +15,18 @@ Currently, this collection has the code of:
 
 ### SRM
 
-#### Volumn I
+#### Volume I
 
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
+144 | Time | BinaryCode | PowerOutage | | Lottery | **_PenLift_** | 
 145 | ImageDithering  | ExerciseMachine | VendingMachine | Bonuses | | HillHike | 
 146 | Yahtzee | RectangularGrid | BridgeCrossing | | Masterbrain | Roundabout |
 147 | CCipher | PeopleCircle | GoldenChain | | Dragons | Flags | 
 
+#### Volume VI
+
+| Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+648 | | | | AB | | | 
+659 | | | | ApplesAndOrangesEasy | | |
