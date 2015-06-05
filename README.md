@@ -30,3 +30,5 @@ Currently, this collection has the code of:
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 648 | | | | AB | | | 
 659 | | | | ApplesAndOrangesEasy | | |
+660 | Cyclemin | PrivateD2party | Powerit | Coversta | Privateparty | **_Morphling_** |
+
