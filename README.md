@@ -29,6 +29,7 @@ Currently, this collection has the code of:
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 648 | | | | AB | | | 
+658 | InfiniteString | MutaliskEasy | OddEvenTreeHard | OddEvenTree | Mutalisk | **_DancingForever_** |
 659 | | | | ApplesAndOrangesEasy | | |
 660 | Cyclemin | PrivateD2party | Powerit | Coversta | Privateparty | **_Morphling_** |
 
