@@ -19,17 +19,19 @@ Currently, this collection has the code of:
 
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
-144 | Time | BinaryCode | PowerOutage | | Lottery | PenLift | 
-145 | ImageDithering  | ExerciseMachine | VendingMachine | Bonuses | | HillHike | 
-146 | Yahtzee | RectangularGrid | BridgeCrossing | | Masterbrain | Roundabout |
-147 | CCipher | PeopleCircle | GoldenChain | | Dragons | Flags | 
+**_144_** | Time | BinaryCode | PowerOutage | | Lottery | PenLift | 
+**_145_** | ImageDithering  | ExerciseMachine | VendingMachine | Bonuses | | HillHike | 
+**_146_** | Yahtzee | RectangularGrid | BridgeCrossing | | Masterbrain | Roundabout |
+**_147_** | CCipher | PeopleCircle | GoldenChain | | Dragons | Flags | 
 
 #### Volume VI
 
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 648 | | | | AB | | | 
-658 | InfiniteString | MutaliskEasy | OddEvenTreeHard | OddEvenTree | Mutalisk | DancingForever |
+655 | BichromeBoard | FoldingPaper2 | NineEasy | BichromePainting | Nine | **_BiChromeSky_** |
+656 | CorruptedMessage | RandomPancakeStackDiv2 | PermutationCountsDiv2 | RandomPancakeStack | **_PermutationCounts_** | **_ForkliftTruckOperator_** |
+**_658_** | InfiniteString | MutaliskEasy | OddEvenTreeHard | OddEvenTree | Mutalisk | DancingForever |
 659 | | | | ApplesAndOrangesEasy | | |
 660 | Cyclemin | PrivateD2party | Powerit | Coversta | Privateparty | **_Morphling_** |
 
