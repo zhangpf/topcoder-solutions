@@ -23,6 +23,7 @@ Currently, this collection has the code of:
 **_145_** | ImageDithering  | ExerciseMachine | VendingMachine | Bonuses | | HillHike | 
 **_146_** | Yahtzee | RectangularGrid | BridgeCrossing | | Masterbrain | Roundabout |
 **_147_** | CCipher | PeopleCircle | GoldenChain | | Dragons | Flags | 
+**_149_** | FormatAmt | BigBurger | Pricing | | MessageMess | GForce | 
 
 #### Volume VI
 
