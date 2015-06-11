@@ -26,6 +26,7 @@ Currently, this collection has the code of:
 **_149_** | FormatAmt | BigBurger | Pricing | | MessageMess | GForce | 
 **_150_** | WidgetRepairs | InterestingDigits | BrickByBrick | | StripePainter | RoboCourier | 
 **_151_** | PrefixCode | Birthday | MergeSort | Archimedes |  | Gauss | 
+152 | FixedPointTheorem | LeaguePicks | ProblemWriting |  | QuiningTopCoder | **_DotNotation_** | 
 
 #### Volume VI
 
