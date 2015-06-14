@@ -29,6 +29,7 @@ Currently, this collection has the code of:
 152 | FixedPointTheorem | LeaguePicks | ProblemWriting |  | QuiningTopCoder | **_DotNotation_** | 
 **_154_** | MarginCalculator | SuperRot | ContestScore | CheatCode | | PossibleOrders | 
 **_155_** | Quipu | BenfordsLaw | PaternityTest | | QuipuReader | RedBlack |
+**_156_** | DiskSpace | BombSweeper | WordParts | | SmartElevator | PathFinding |
 
 #### Volume VI
 
