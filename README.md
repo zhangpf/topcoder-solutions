@@ -27,6 +27,7 @@ Currently, this collection has the code of:
 **_150_** | WidgetRepairs | InterestingDigits | BrickByBrick | | StripePainter | RoboCourier | 
 **_151_** | PrefixCode | Birthday | MergeSort | Archimedes |  | Gauss | 
 152 | FixedPointTheorem | LeaguePicks | ProblemWriting |  | QuiningTopCoder | **_DotNotation_** | 
+**_153_** | MostProfitable | Inventory |PickTeam | | Collision | | GasStations | 
 **_154_** | MarginCalculator | SuperRot | ContestScore | CheatCode | | PossibleOrders | 
 **_155_** | Quipu | BenfordsLaw | PaternityTest | | QuipuReader | RedBlack |
 **_156_** | DiskSpace | BombSweeper | WordParts | | SmartElevator | PathFinding |
