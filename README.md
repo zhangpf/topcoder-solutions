@@ -32,6 +32,8 @@ Currently, this collection has the code of:
 **_155_** | Quipu | BenfordsLaw | PaternityTest | | QuipuReader | RedBlack |
 **_156_** | DiskSpace | BombSweeper | WordParts | | SmartElevator | PathFinding |
 **_158_** | TireRotation | BaseMystery | Gems | | StampPads | Jumper |
+**_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | | PointsOnAxis |
+
 
 #### Volume VI
 
