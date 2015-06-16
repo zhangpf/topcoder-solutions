@@ -45,12 +45,15 @@ the contest numbers which are in
 
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
-648 | | | | AB | | | 
+646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
+653 | CountryGroup | RockPaperScissorsEasy | SingingEasy | CountryGroupHard | **_Singing_** | |
 655 | BichromeBoard | FoldingPaper2 | NineEasy | BichromePainting | Nine | |
 656 | CorruptedMessage | RandomPancakeStackDiv2 | PermutationCountsDiv2 | RandomPancakeStack | | |
+657 | EightRooks | ProblemSetsEasy | PolynomialRemainder | ProblemSets | **_PolynomialGCD_** | |
 **_658_** | InfiniteString | MutaliskEasy | OddEvenTreeHard | OddEvenTree | Mutalisk | DancingForever |
-659 | | | | ApplesAndOrangesEasy | | |
 660 | Cyclemin | PrivateD2party | Powerit | Coversta | Privateparty | |
+661 | FallingSand | ColorfulLineGraphsDiv2 | BridgeBuildingDiv2 | MissingLCM | **_ColorfulLineGraphs_** | |
+ 
 
 ### Todo List
 * DotNotation: SRM152-DIV1-Level3
@@ -58,3 +61,7 @@ the contest numbers which are in
 * PermutationCounts: SRM656-DIV1-Level2
 * ForkliftTruckOperator: SRM656-DIV1-Level3
 * Morphling: SRM660-DIV1-Level3
+* BridgeBuilding: SRM661-DIV1-Level3
+* RockPaperScissorsMagic: SRM653-DIV1-Level3
+* RookGraph: SRM657-DIV1-Level3
+* TheFootballDivTwo: SRM646-DIV1-Level3
