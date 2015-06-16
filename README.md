@@ -9,9 +9,15 @@ My handle in topcoder is [AcOnFingers](http://community.topcoder.com/tc?module=M
 Currently, this collection has the code of:
 * SRM (Single Round Match)
 
-# Current State
+## Current State
 
-**_Note: the source codes which are in bold are needed to be completed._**
+**Note:**  
+the source codes which are in
+* **_bold and italic_**: are solved after the practice contest session 
+* **bold**: are coded in the contest practice sessions, but fail the system test
+
+the contest numbers which are in
+* **_bold and italic_**: are indicating that all problems are right solved
 
 ### SRM
 
@@ -19,20 +25,20 @@ Currently, this collection has the code of:
 
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
-**_144_** | Time | BinaryCode | PowerOutage | | Lottery | PenLift | 
-**_145_** | ImageDithering  | ExerciseMachine | VendingMachine | Bonuses | | HillHike | 
-**_146_** | Yahtzee | RectangularGrid | BridgeCrossing | | Masterbrain | Roundabout |
-**_147_** | CCipher | PeopleCircle | GoldenChain | | Dragons | Flags | 
-**_149_** | FormatAmt | BigBurger | Pricing | | MessageMess | GForce | 
-**_150_** | WidgetRepairs | InterestingDigits | BrickByBrick | | StripePainter | RoboCourier | 
-**_151_** | PrefixCode | Birthday | MergeSort | Archimedes |  | Gauss | 
-152 | FixedPointTheorem | LeaguePicks | ProblemWriting |  | QuiningTopCoder | **_DotNotation_** | 
-**_153_** | MostProfitable | Inventory |PickTeam | | Collision | | GasStations | 
-**_154_** | MarginCalculator | SuperRot | ContestScore | CheatCode | | PossibleOrders | 
-**_155_** | Quipu | BenfordsLaw | PaternityTest | | QuipuReader | RedBlack |
-**_156_** | DiskSpace | BombSweeper | WordParts | | SmartElevator | PathFinding |
-**_158_** | TireRotation | BaseMystery | Gems | | StampPads | Jumper |
-**_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | | PointsOnAxis |
+**_144_** | Time | BinaryCode | PowerOutage | _(empty)_ | Lottery | PenLift | 
+**_145_** | ImageDithering | ExerciseMachine | VendingMachine | Bonuses | _(empty)_ | HillHike | 
+**_146_** | Yahtzee | RectangularGrid | BridgeCrossing |  _(empty)_  | Masterbrain | Roundabout |
+**_147_** | CCipher | PeopleCircle | GoldenChain |  _(empty)_  | Dragons | Flags | 
+**_149_** | FormatAmt | BigBurger | Pricing | _(empty)_ | MessageMess | GForce | 
+**_150_** | WidgetRepairs | InterestingDigits | BrickByBrick | _(empty)_ | StripePainter | RoboCourier | 
+**_151_** | PrefixCode | Birthday | MergeSort | Archimedes | _(empty)_ | Gauss | 
+152 | FixedPointTheorem | LeaguePicks | ProblemWriting | _(empty)_ | QuiningTopCoder | | 
+**_153_** | MostProfitable | Inventory | PickTeam | _(empty)_ | Collision | GasStations | 
+**_154_** | MarginCalculator | SuperRot | ContestScore | CheatCode | _(empty)_ | PossibleOrders | 
+**_155_** | Quipu | BenfordsLaw | PaternityTest | _(empty)_ | QuipuReader | RedBlack |
+**_156_** | DiskSpace | BombSweeper | WordParts | _(empty)_ | SmartElevator | PathFinding |
+**_158_** | TireRotation | BaseMystery | Gems | _(empty)_ | StampPads | Jumper |
+**_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | _(empty)_ | PointsOnAxis |
 
 
 #### Volume VI
@@ -40,9 +46,15 @@ Currently, this collection has the code of:
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 648 | | | | AB | | | 
-655 | BichromeBoard | FoldingPaper2 | NineEasy | BichromePainting | Nine | **_BiChromeSky_** |
-656 | CorruptedMessage | RandomPancakeStackDiv2 | PermutationCountsDiv2 | RandomPancakeStack | **_PermutationCounts_** | **_ForkliftTruckOperator_** |
+655 | BichromeBoard | FoldingPaper2 | NineEasy | BichromePainting | Nine | |
+656 | CorruptedMessage | RandomPancakeStackDiv2 | PermutationCountsDiv2 | RandomPancakeStack | | |
 **_658_** | InfiniteString | MutaliskEasy | OddEvenTreeHard | OddEvenTree | Mutalisk | DancingForever |
 659 | | | | ApplesAndOrangesEasy | | |
-660 | Cyclemin | PrivateD2party | Powerit | Coversta | Privateparty | **_Morphling_** |
+660 | Cyclemin | PrivateD2party | Powerit | Coversta | Privateparty | |
 
+### Todo List
+* DotNotation: SRM152-DIV1-Level3
+* BiChromeSky: SRM655-DIV1-Level3
+* PermutationCounts: SRM656-DIV1-Level2
+* ForkliftTruckOperator: SRM656-DIV1-Level3
+* Morphling: SRM660-DIV1-Level3
