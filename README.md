@@ -13,7 +13,8 @@ Currently, this collection has the code of:
 
 **Note:**  
 the source codes which are in
-* **_bold and italic_**: are solved after the practice contest session 
+* **_bold and italic_**: are solved after the contest practice session with the help of analysis report
+* _italic_: are coded after the contest practice sessions, without the help of any report 
 * **bold**: are coded in the contest practice sessions, but fail the system test
 
 the contest numbers which are in
@@ -25,20 +26,22 @@ the contest numbers which are in
 
 | Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
-**_144_** | Time | BinaryCode | PowerOutage | _(empty)_ | Lottery | PenLift | 
-**_145_** | ImageDithering | ExerciseMachine | VendingMachine | Bonuses | _(empty)_ | HillHike | 
-**_146_** | Yahtzee | RectangularGrid | BridgeCrossing |  _(empty)_  | Masterbrain | Roundabout |
-**_147_** | CCipher | PeopleCircle | GoldenChain |  _(empty)_  | Dragons | Flags | 
-**_149_** | FormatAmt | BigBurger | Pricing | _(empty)_ | MessageMess | GForce | 
-**_150_** | WidgetRepairs | InterestingDigits | BrickByBrick | _(empty)_ | StripePainter | RoboCourier | 
-**_151_** | PrefixCode | Birthday | MergeSort | Archimedes | _(empty)_ | Gauss | 
-152 | FixedPointTheorem | LeaguePicks | ProblemWriting | _(empty)_ | QuiningTopCoder | | 
-**_153_** | MostProfitable | Inventory | PickTeam | _(empty)_ | Collision | GasStations | 
-**_154_** | MarginCalculator | SuperRot | ContestScore | CheatCode | _(empty)_ | PossibleOrders | 
-**_155_** | Quipu | BenfordsLaw | PaternityTest | _(empty)_ | QuipuReader | RedBlack |
-**_156_** | DiskSpace | BombSweeper | WordParts | _(empty)_ | SmartElevator | PathFinding |
-**_158_** | TireRotation | BaseMystery | Gems | _(empty)_ | StampPads | Jumper |
-**_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | _(empty)_ | PointsOnAxis |
+**_144_** | Time | BinaryCode | PowerOutage | ~~(empty)~~ | Lottery | _PenLift_ | 
+**_145_** | ImageDithering | ExerciseMachine | VendingMachine | Bonuses | ~~(empty)~~ | HillHike | 
+**_146_** | Yahtzee | RectangularGrid | BridgeCrossing | ~~(empty)~~ | Masterbrain | Roundabout |
+**_147_** | CCipher | PeopleCircle | GoldenChain |  ~~(empty)~~  | Dragons | Flags | 
+148 | DivisorDigits | CeyKaps | MNS | Circlegame | ~~(empty)~~  | | 
+**_149_** | FormatAmt | BigBurger | Pricing | ~~(empty)~~ | MessageMess | GForce | 
+**_150_** | WidgetRepairs | InterestingDigits | BrickByBrick | ~~(empty)~~ | StripePainter | RoboCourier | 
+**_151_** | PrefixCode | Birthday | MergeSort | Archimedes | ~~(empty)~~ | Gauss | 
+152 | FixedPointTheorem | LeaguePicks | ProblemWriting | ~~(empty)~~ | QuiningTopCoder | | 
+**_153_** | MostProfitable | Inventory | PickTeam | ~~(empty)~~ | Collision | GasStations | 
+**_154_** | MarginCalculator | SuperRot | ContestScore | CheatCode | ~~(empty)~~ | PossibleOrders | 
+**_155_** | Quipu | BenfordsLaw | PaternityTest | ~~(empty)~~ | QuipuReader | RedBlack |
+**_156_** | DiskSpace | BombSweeper | WordParts | ~~(empty)~~ | SmartElevator | PathFinding |
+157 | GuessTheNumber | Salary | HourGlass | ~~(empty)~~ | Table | |
+**_158_** | TireRotation | BaseMystery | Gems | ~~(empty)~~ | StampPads | Jumper |
+**_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | ~~(empty)~~ | PointsOnAxis |
 
 
 #### Volume VI
@@ -65,3 +68,5 @@ the contest numbers which are in
 * RockPaperScissorsMagic: SRM653-DIV1-Level3
 * RookGraph: SRM657-DIV1-Level3
 * TheFootballDivTwo: SRM646-DIV1-Level3
+* NumberGuessing: SRM148-DIV1-Level3
+* Posters: SRM157-DIV1-Level3
