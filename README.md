@@ -9,7 +9,22 @@ My handle in topcoder is [AcOnFingers](http://community.topcoder.com/tc?module=M
 Currently, this collection has the code of:
 * SRM (Single Round Match)
 
-## Current State
+## Todo List
+| Problem Class | Match Type | Match Number | Division | Level |
+:---:|:---:|:---:|:---:|:---:|
+DotNotation | SRM | 152 | 1 | 3 | 
+BiChromeSky | SRM | 655 | 1 | 3 |
+PermutationCounts | SRM | 656 | 1 | 2 |
+ForkliftTruckOperator | SRM | 656 | 1 | 3 |
+Morphling | SRM | 660 | 1 | 3 |
+BridgeBuilding | SRM | 661 | 1 | 3 |
+RockPaperScissorsMagic | SRM | 653 | 1 | 3 |
+RookGraph | SRM | 657 | 1 | 3 |
+NumberGuessing | SRM | 148 | 1 | 3 |
+Posters | SRM | 157 | 1 | 3 |
+TheFootballDivOne | SRM | 646 | 1 | 3 |
+
+## Solved Problem Archive
 
 **Note:**  
 the source codes which are in
@@ -24,7 +39,7 @@ the contest numbers which are in
 
 #### Volume I
 
-| Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
+| Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 **_144_** | Time | BinaryCode | PowerOutage | ~~(empty)~~ | Lottery | _PenLift_ | 
 **_145_** | ImageDithering | ExerciseMachine | VendingMachine | Bonuses | ~~(empty)~~ | HillHike | 
@@ -46,7 +61,7 @@ the contest numbers which are in
 
 #### Volume VI
 
-| Division | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
+| Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
 653 | CountryGroup | RockPaperScissorsEasy | SingingEasy | CountryGroupHard | **_Singing_** | |
@@ -58,15 +73,3 @@ the contest numbers which are in
 661 | FallingSand | ColorfulLineGraphsDiv2 | BridgeBuildingDiv2 | MissingLCM | **_ColorfulLineGraphs_** | |
  
 
-### Todo List
-* DotNotation: SRM152-DIV1-Level3
-* BiChromeSky: SRM655-DIV1-Level3
-* PermutationCounts: SRM656-DIV1-Level2
-* ForkliftTruckOperator: SRM656-DIV1-Level3
-* Morphling: SRM660-DIV1-Level3
-* BridgeBuilding: SRM661-DIV1-Level3
-* RockPaperScissorsMagic: SRM653-DIV1-Level3
-* RookGraph: SRM657-DIV1-Level3
-* TheFootballDivTwo: SRM646-DIV1-Level3
-* NumberGuessing: SRM148-DIV1-Level3
-* Posters: SRM157-DIV1-Level3
