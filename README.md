@@ -57,6 +57,7 @@ the contest numbers which are in
 157 | GuessTheNumber | Salary | HourGlass | ~~(empty)~~ | Table | |
 **_158_** | TireRotation | BaseMystery | Gems | ~~(empty)~~ | StampPads | Jumper |
 **_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | ~~(empty)~~ | PointsOnAxis |
+**_160_** | Substitute | Intersect | Quilting | Iditarod | ~~(empty)~~ | Permutation |
 
 
 #### Volume VI
