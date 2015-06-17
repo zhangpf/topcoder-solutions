@@ -23,6 +23,7 @@ RookGraph | SRM | 657 | 1 | 3 |
 NumberGuessing | SRM | 148 | 1 | 3 |
 Posters | SRM | 157 | 1 | 3 |
 TheFootballDivOne | SRM | 646 | 1 | 3 |
+NoRightTurn | SRM | 652 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -65,6 +66,7 @@ the contest numbers which are in
 | Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
+652 | ValueOfString | ThePermutationGameDiv2 | NoRightTurnDiv2 | ThePermutationGame | **_MaliciousPath_** | |
 653 | CountryGroup | RockPaperScissorsEasy | SingingEasy | CountryGroupHard | **_Singing_** | |
 655 | BichromeBoard | FoldingPaper2 | NineEasy | BichromePainting | Nine | |
 656 | CorruptedMessage | RandomPancakeStackDiv2 | PermutationCountsDiv2 | RandomPancakeStack | | |
