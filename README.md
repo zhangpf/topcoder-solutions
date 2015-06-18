@@ -65,6 +65,7 @@ the contest numbers which are in
 **_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | ~~(empty)~~ | PointsOnAxis |
 **_160_** | Substitute | Intersect | Quilting | Iditarod | ~~(empty)~~ | Permutation |
 161 | CardCount | StringTrain | TennisRallies | IsHomomorphism | ~~(empty)~~ | |
+**_162_** | LCMRange | PaperFold | SMBus | ~~(empty)~~ | **JarBox** | **PermutationCounter** |
 
 
 #### Volume VI
