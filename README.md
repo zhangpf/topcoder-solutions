@@ -24,6 +24,11 @@ NumberGuessing | SRM | 148 | 1 | 3 |
 Posters | SRM | 157 | 1 | 3 |
 TheFootballDivOne | SRM | 646 | 1 | 3 |
 NoRightTurn | SRM | 652 | 1 | 3 |
+PermutationValues | SRM | 161 | 1 | 3 |
+FoxConnection4 | SRM | 651 | 2 | 3 |
+FoxConnection3 | SRM | 651 | 1 | 2 |
+FoxAndSouvenir | SRM | 651 | 1 | 3 |
+
 
 ## Solved Problem Archive
 
@@ -59,6 +64,7 @@ the contest numbers which are in
 **_158_** | TireRotation | BaseMystery | Gems | ~~(empty)~~ | StampPads | Jumper |
 **_159_** | StreetParking | Sets | ThePriceIsRight | FryingHamburgers | ~~(empty)~~ | PointsOnAxis |
 **_160_** | Substitute | Intersect | Quilting | Iditarod | ~~(empty)~~ | Permutation |
+161 | CardCount | StringTrain | TennisRallies | IsHomomorphism | ~~(empty)~~ | |
 
 
 #### Volume VI
@@ -66,6 +72,7 @@ the contest numbers which are in
 | Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
+651 | RobotOnMoonEasy | FoxAndSouvenirNext | | RobotOnMoon | | |
 652 | ValueOfString | ThePermutationGameDiv2 | NoRightTurnDiv2 | ThePermutationGame | **_MaliciousPath_** | |
 653 | CountryGroup | RockPaperScissorsEasy | SingingEasy | CountryGroupHard | **_Singing_** | |
 655 | BichromeBoard | FoldingPaper2 | NineEasy | BichromePainting | Nine | |
