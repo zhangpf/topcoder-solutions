@@ -66,6 +66,7 @@ the contest numbers which are in
 **_160_** | Substitute | Intersect | Quilting | Iditarod | ~~(empty)~~ | Permutation |
 161 | CardCount | StringTrain | TennisRallies | IsHomomorphism | ~~(empty)~~ | |
 **_162_** | LCMRange | PaperFold | SMBus | ~~(empty)~~ | **JarBox** | **PermutationCounter** |
+**_163_** | Inchworm | CalendarRecycle | ~~(empty)~~ | Rochambo | **Pool** | **CalendarISO** |
 
 
 #### Volume VI
