@@ -29,7 +29,6 @@ FoxConnection4 | SRM | 651 | 2 | 3 |
 FoxConnection3 | SRM | 651 | 1 | 2 |
 FoxAndSouvenir | SRM | 651 | 1 | 3 |
 
-
 ## Solved Problem Archive
 
 **Note:**  
@@ -67,6 +66,7 @@ the contest numbers which are in
 161 | CardCount | StringTrain | TennisRallies | IsHomomorphism | ~~(empty)~~ | |
 **_162_** | LCMRange | PaperFold | SMBus | ~~(empty)~~ | **JarBox** | **PermutationCounter** |
 **_163_** | Inchworm | CalendarRecycle | ~~(empty)~~ | Rochambo | **Pool** | **CalendarISO** |
+**_164_** | Justifier | PartySeats | ~~(empty)~~ | UserId | WhatSort | **DesertWind** |
 
 
 #### Volume VI
