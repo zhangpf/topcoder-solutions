@@ -67,6 +67,7 @@ the contest numbers which are in
 **_162_** | LCMRange | PaperFold | SMBus | ~~(empty)~~ | **JarBox** | **PermutationCounter** |
 **_163_** | Inchworm | CalendarRecycle | ~~(empty)~~ | Rochambo | **Pool** | **CalendarISO** |
 **_164_** | Justifier | PartySeats | ~~(empty)~~ | UserId | WhatSort | **DesertWind** |
+**_165_** | BritishCoins | ParallelSpeedup | **ShortPalindromes** | ~~(empty)~~ | ContinuedFractions | **Scheduling** |
 
 
 #### Volume VI
