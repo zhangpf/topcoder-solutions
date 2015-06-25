@@ -28,6 +28,7 @@ PermutationValues | SRM | 161 | 1 | 3 |
 FoxConnection4 | SRM | 651 | 2 | 3 |
 FoxConnection3 | SRM | 651 | 1 | 2 |
 FoxAndSouvenir | SRM | 651 | 1 | 3 |
+LegendOfAdlez | SRM | 650 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -75,6 +76,8 @@ the contest numbers which are in
 | Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
+**_649_** | DecipherabilityEasy | CartInSupermarketEasy | XorSequenceEasy | Decipherability | XorSequence | **CartInSupermarket** |
+650 | **TaroJiroDividing** | TaroFillingAStringDiv2 | TheKingsRoadsDiv2 | TaroFillingAStringDiv1 | **_TheKingsRoadsDiv1_** | |
 651 | RobotOnMoonEasy | FoxAndSouvenirNext | | RobotOnMoon | | |
 652 | ValueOfString | ThePermutationGameDiv2 | NoRightTurnDiv2 | ThePermutationGame | **_MaliciousPath_** | |
 653 | CountryGroup | RockPaperScissorsEasy | SingingEasy | CountryGroupHard | **_Singing_** | |
