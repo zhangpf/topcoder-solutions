@@ -70,6 +70,7 @@ the contest numbers which are in
 **_164_** | Justifier | PartySeats | ~~(empty)~~ | UserId | WhatSort | **DesertWind** |
 **_165_** | BritishCoins | ParallelSpeedup | **ShortPalindromes** | ~~(empty)~~ | ContinuedFractions | **Scheduling** |
 **_166_** | Workshop | BinaryCardinality | ConvexPolygon | ~~(empty)~~ | CircleBugs | **LongNumber** |
+**_167_** | EyeDrops | Animation | Orchard | ~~(empty)~~ | **TeamPhoto** | **AlphaDice** |
 
 
 #### Volume VI
