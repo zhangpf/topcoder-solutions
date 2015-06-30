@@ -73,6 +73,8 @@ the contest numbers which are in
 **_166_** | Workshop | BinaryCardinality | ConvexPolygon | ~~(empty)~~ | CircleBugs | **LongNumber** |
 **_167_** | EyeDrops | Animation | Orchard | ~~(empty)~~ | **TeamPhoto** | **AlphaDice** |
 **_168_** | StairClimb | NumberGuesser | WindowWasher | ~~(empty)~~ | DirectoryTree | **ParkingLot** |
+**_169_** | Swimmers | Twain | FairWorkload | MineField | ~~(empty)~~ | GoldMine |
+**_170_** | LevelUp | RecurrenceRelation | Poetry | ~~(empty)~~ | CityLink | **Polynomials** |
 
 
 #### Volume VI
