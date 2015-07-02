@@ -30,6 +30,7 @@ FoxConnection3 | SRM | 651 | 1 | 2 |
 FoxAndSouvenir | SRM | 651 | 1 | 3 |
 LegendOfAdlez | SRM | 650 | 1 | 3 |
 Fragile | SRM | 648 | 1 | 3 |
+ConvenientBlock | SRM | 647 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -82,6 +83,7 @@ the contest numbers which are in
 | Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
+647 | PeacefulLine | TravellingSalesmanEasy | BuildingTowers | _BuildingTowersEasy_ | _CtuRobots_ | |
 648 | KitayutaMart2 | Fragile2 | **ABC** | AB | _KitayutaMart_ | |
 **_649_** | DecipherabilityEasy | CartInSupermarketEasy | XorSequenceEasy | Decipherability | _XorSequence_ | **CartInSupermarket** |
 650 | **TaroJiroDividing** | TaroFillingAStringDiv2 | TheKingsRoadsDiv2 | TaroFillingAStringDiv1 | **_TheKingsRoadsDiv1_** | |
