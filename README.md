@@ -75,7 +75,9 @@ the contest numbers which are in
 **_167_** | EyeDrops | Animation | Orchard | ~~(empty)~~ | **TeamPhoto** | **AlphaDice** |
 **_168_** | StairClimb | NumberGuesser | WindowWasher | ~~(empty)~~ | DirectoryTree | **ParkingLot** |
 **_169_** | Swimmers | Twain | FairWorkload | MineField | ~~(empty)~~ | GoldMine |
-**_170_** | RPG | ~~(empty)~~ | TextEditor | **CrossCountry** | **ResistorCombinations** | UndergroundVault |
+**_170_** | LevelUp | RecurrenceRelation | Poetry | ~~(empty)~~ | CityLink | **Polynomials** |
+**_171_** | RPG | ~~(empty)~~ | TextEditor | **CrossCountry** | **ResistorCombinations** | UndergroundVault |
+**_172_** | SkipRope | BadClock | Cubism | ~~(empty)~~ | _Fifteen_ | _Amoebae_ |
 
 
 #### Volume VI
