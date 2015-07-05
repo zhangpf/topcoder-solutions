@@ -32,6 +32,8 @@ LegendOfAdlez | SRM | 650 | 1 | 3 |
 Fragile | SRM | 648 | 1 | 3 |
 ConvenientBlock | SRM | 647 | 1 | 3 |
 ElectronicScarecrows | SRM | 173 | 1 | 3 |
+MakingTournament | SRM | 644 | 1 | 2 |
+SquareOfSquareMatrix | SRM | 644 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -86,6 +88,7 @@ the contest numbers which are in
 
 | Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
+644 | OkonomiyakiShop | LostCharacter | TreeCutting | OkonomiyakiParty | | |
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
 647 | PeacefulLine | TravellingSalesmanEasy | BuildingTowers | _BuildingTowersEasy_ | _CtuRobots_ | |
 648 | KitayutaMart2 | Fragile2 | **ABC** | AB | _KitayutaMart_ | |
