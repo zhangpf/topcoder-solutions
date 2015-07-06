@@ -31,7 +31,6 @@ FoxAndSouvenir | SRM | 651 | 1 | 3 |
 LegendOfAdlez | SRM | 650 | 1 | 3 |
 Fragile | SRM | 648 | 1 | 3 |
 ConvenientBlock | SRM | 647 | 1 | 3 |
-ElectronicScarecrows | SRM | 173 | 1 | 3 |
 MakingTournament | SRM | 644 | 1 | 2 |
 SquareOfSquareMatrix | SRM | 644 | 1 | 3 |
 
@@ -81,7 +80,7 @@ the contest numbers which are in
 **_170_** | LevelUp | RecurrenceRelation | Poetry | ~~(empty)~~ | CityLink | **Polynomials** |
 **_171_** | RPG | ~~(empty)~~ | TextEditor | **CrossCountry** | **ResistorCombinations** | UndergroundVault |
 **_172_** | SkipRope | BadClock | Cubism | ~~(empty)~~ | _Fifteen_ | _Amoebae_ |
-173 | ProgressBar | WordForm | Centipede | ~~(empty)~~ | TreasureHunt | |
+**_173_** | ProgressBar | WordForm | Centipede | ~~(empty)~~ | TreasureHunt | **_SquareOfSquareMatrix_** |
 
 
 #### Volume VI
