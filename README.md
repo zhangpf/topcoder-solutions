@@ -33,6 +33,7 @@ Fragile | SRM | 648 | 1 | 3 |
 ConvenientBlock | SRM | 647 | 1 | 3 |
 MakingTournament | SRM | 644 | 1 | 2 |
 SquareOfSquareMatrix | SRM | 644 | 1 | 3 |
+PointSystem | SRM | 174 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -81,7 +82,7 @@ the contest numbers which are in
 **_171_** | RPG | ~~(empty)~~ | TextEditor | **CrossCountry** | **ResistorCombinations** | UndergroundVault |
 **_172_** | SkipRope | BadClock | Cubism | ~~(empty)~~ | _Fifteen_ | _Amoebae_ |
 **_173_** | ProgressBar | WordForm | Centipede | ~~(empty)~~ | TreasureHunt | **_SquareOfSquareMatrix_** |
-
+174 | CrossWord | BirthdayOdds | ProbabilityTree | ~~(empty)~~ | RangeGame | |
 
 #### Volume VI
 
