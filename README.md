@@ -33,6 +33,8 @@ Fragile | SRM | 648 | 1 | 3 |
 ConvenientBlock | SRM | 647 | 1 | 3 |
 MakingTournament | SRM | 644 | 1 | 2 |
 SquareOfSquareMatrix | SRM | 644 | 1 | 3 |
+TheKingsArmyDiv1 | SRM | 643 | 1 | 2 |
+CasinoGame | SRM | 643 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -87,6 +89,7 @@ the contest numbers which are in
 
 | Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
+643 | TheKingsArmyDiv2 | ~~(empty)~~ | TheKingsFactorization | TheKingsTree | | |
 644 | OkonomiyakiShop | LostCharacter | TreeCutting | OkonomiyakiParty | | |
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
 647 | PeacefulLine | TravellingSalesmanEasy | BuildingTowers | _BuildingTowersEasy_ | _CtuRobots_ | |
