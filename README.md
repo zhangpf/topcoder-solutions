@@ -35,6 +35,8 @@ MakingTournament | SRM | 644 | 1 | 2 |
 SquareOfSquareMatrix | SRM | 644 | 1 | 3 |
 TheKingsArmyDiv1 | SRM | 643 | 1 | 2 |
 CasinoGame | SRM | 643 | 1 | 3 |
+Deranged | SRM | 176 | 1 | 2 |
+Watchtower | SRM | 176 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -84,6 +86,7 @@ the contest numbers which are in
 **_172_** | SkipRope | BadClock | Cubism | ~~(empty)~~ | _Fifteen_ | _Amoebae_ |
 **_173_** | ProgressBar | WordForm | Centipede | ~~(empty)~~ | TreasureHunt | **_SquareOfSquareMatrix_** |
 **_174_** | CrossWord | BirthdayOdds | ProbabilityTree | ~~(empty)~~ | RangeGame | **_PointSystem_** |
+176 | RGBColor | Matching | Harmony | ~~(empty)~~ | | |
 
 #### Volume VI
 
