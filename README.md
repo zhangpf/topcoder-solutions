@@ -37,6 +37,7 @@ TheKingsArmyDiv1 | SRM | 643 | 1 | 2 |
 CasinoGame | SRM | 643 | 1 | 3 |
 Deranged | SRM | 176 | 1 | 2 |
 Watchtower | SRM | 176 | 1 | 3 |
+Warehouse | SRM | 177 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -87,6 +88,8 @@ the contest numbers which are in
 **_173_** | ProgressBar | WordForm | Centipede | ~~(empty)~~ | TreasureHunt | **_SquareOfSquareMatrix_** |
 **_174_** | CrossWord | BirthdayOdds | ProbabilityTree | ~~(empty)~~ | RangeGame | **_PointSystem_** |
 176 | RGBColor | Matching | Harmony | ~~(empty)~~ | | |
+177 | Stairs | OldestOne | Removal | TickTick | ~~(empty)~~ | |
+
 
 #### Volume VI
 
