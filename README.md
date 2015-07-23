@@ -38,6 +38,7 @@ CasinoGame | SRM | 643 | 1 | 3 |
 Deranged | SRM | 176 | 1 | 2 |
 Watchtower | SRM | 176 | 1 | 3 |
 Warehouse | SRM | 177 | 1 | 3 |
+WarAndPeas | SRM | 663 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -111,5 +112,6 @@ the contest numbers which are in
 **_658_** | InfiniteString | MutaliskEasy | OddEvenTreeHard | OddEvenTree | Mutalisk | DancingForever |
 660 | Cyclemin | PrivateD2party | Powerit | Coversta | Privateparty | |
 661 | FallingSand | ColorfulLineGraphsDiv2 | BridgeBuildingDiv2 | MissingLCM | **_ColorfulLineGraphs_** | |
+663 | ChessFloor | ABBA | CheeseRolling | ABBADiv1 | ChangingChange | |
  
 
