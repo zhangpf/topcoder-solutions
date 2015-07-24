@@ -39,6 +39,7 @@ Deranged | SRM | 176 | 1 | 2 |
 Watchtower | SRM | 176 | 1 | 3 |
 Warehouse | SRM | 177 | 1 | 3 |
 WarAndPeas | SRM | 663 | 1 | 3 |
+WheelOfFortune | SRM | 642 | 1 | 3 |
 
 ## Solved Problem Archive
 
@@ -96,6 +97,7 @@ the contest numbers which are in
 
 | Match Number | Div2 Level1  | Div2 Level2 | Div2 Level3 | Div1 Level1 | Div1 Level2 | Div1 Level3 |
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
+642 | ForgetfulAddition | LightSwitchingPuzzle | TallShoes | WaitingForBus | **_TaroCutting_** | |
 643 | TheKingsArmyDiv2 | ~~(empty)~~ | TheKingsFactorization | TheKingsTree | | |
 644 | OkonomiyakiShop | LostCharacter | TreeCutting | OkonomiyakiParty | | |
 646 | TheConsecutiveIntegersDivTwo | TheGridDivTwo | TheFootballDivTwo | TheConsecutiveIntegersDivOne | TheGridDivOne | |
